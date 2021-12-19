@@ -14,9 +14,6 @@
     "sku": {
       "value": "Basic"
     },
-    "repoUrl": {
-      "value": "https://github.com/gethuravi2020/Ghost-Azure-1"
-    },
     "branch": {
       "value": "azure"
     }
