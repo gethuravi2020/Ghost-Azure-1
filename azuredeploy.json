@@ -58,7 +58,7 @@
       "defaultValue": ""
     },
     "repoUrl": {
-      "type": "string"
+      "type": "string",
       "defaultValue": "https%3A%2F%2Fgithub.com%2Fgethuravi2020%2FGhost-Azure-1"
     },
     "branch": {
