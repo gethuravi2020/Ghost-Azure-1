@@ -1,0 +1,23 @@
+{
+  "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json#",
+  "contentVersion": "1.0.0.2",
+  "parameters": {
+    "siteName": {
+      "value": "ravij2020webappghost"
+    },
+    "hostingPlanName": {
+      "value": "ravij2020webappghost"
+    },
+    "siteLocation": {
+      "value": "eastus"
+    },
+    "sku": {
+      "value": "Basic"
+    },
+    "repoUrl": {
+      "type": "https://dev.azure.com/ravij2020/ITOps/_git/Ghost-Azure-1"
+    },
+    "branch": {
+      "type": "azure"
+    }
+  }
