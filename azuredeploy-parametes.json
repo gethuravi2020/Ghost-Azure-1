@@ -15,7 +15,7 @@
       "value": "Basic"
     },
     "repoUrl": {
-      "type": "https://dev.azure.com/ravij2020/ITOps/_git/Ghost-Azure-1"
+      "type": "https://github.com/gethuravi2020/Ghost-Azure-1"
     },
     "branch": {
       "type": "azure"
