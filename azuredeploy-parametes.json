@@ -15,10 +15,10 @@
       "value": "Basic"
     },
     "repoUrl": {
-      "type": "https://github.com/gethuravi2020/Ghost-Azure-1"
+      "value": "https://github.com/gethuravi2020/Ghost-Azure-1"
     },
     "branch": {
-      "type": "azure"
+      "value": "azure"
     }
   }
 }
